@@ -1,0 +1,5 @@
+link github
+https://github.com/mochammadardifikri/Final-Project-1.git
+
+link netlifly
+https://novatech1.netlify.app/
